@@ -1,4 +1,4 @@
-![screenshot-2024-10-12_17 07 38 034](https://github.com/user-attachments/assets/66db2954-2172-44e5-9baf-2aeb0d8746c9)# Flutter AlertBox Demo
+# Flutter AlertBox Demo
 
 This is a simple Flutter project demonstrating how to create an Alert Box in a Flutter app. The project uses a `MaterialApp` with a button that triggers the display of an alert dialog when pressed.
 
